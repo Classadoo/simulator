@@ -1,0 +1,15 @@
+{
+  "name": "classadoo-simulator",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node simulate.js"
+  },
+  "dependencies": {    
+    "url": "*",
+    "firebase": "*",
+    "system": "*",
+    "minimist": "*",
+    "faker": "*"
+  }
+}
